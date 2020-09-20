@@ -57,6 +57,5 @@ public class Operators {
 Ambagibus omnes; nulla tamen constant dederat deficit [berlin.de](http://berlin.de) cautes! Ramosque succincta arceat
 horrentia iaculatricemque visuraque.
 
-
-
-![Kitten](https://d33wubrfki0l68.cloudfront.net/200d166fc3dff29e5b8a6703d8e83cc25821bcf4/10dd6/media/2018/08/kitten.jpg "A cute kitten")
+ 
+![MD Logo](images/daisys.jpg)
