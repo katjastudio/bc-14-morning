@@ -58,4 +58,4 @@ Ambagibus omnes; nulla tamen constant dederat deficit [berlin.de](http://berlin.
 horrentia iaculatricemque visuraque.
 
  
-![MD Logo](images/daisys.jpg)
+![Cveti](images/daisys.jpg)
