@@ -1,3 +1,4 @@
+/*
 package day21;
 
 public class ExercisesAddElement {
@@ -27,3 +28,4 @@ public class ExercisesAddElement {
 
     }
 }
+*/

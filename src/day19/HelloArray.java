@@ -6,7 +6,7 @@ public class HelloArray {
         // helloMyFirstArray();
         // oldDeclaration();
         // arrayInitialisation();
-        //  germanCities();
+         germanCities();
         intArrayGame();
 
 
